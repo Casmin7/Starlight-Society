@@ -1,0 +1,35 @@
+muted = false
+#The voice chat volume
+#Range: 0.0 ~ 2.0
+voice_chat_volume = 1.0
+#The threshold for voice activation in dB
+#Range: -127.0 ~ 0.0
+voice_activation_threshold = -50.0
+#The voice chat microphone amplification
+#Range: 0.0 ~ 4.0
+microphone_amplification = 1.0
+#Microphone activation type
+#Possible values are 'PTT' and 'VOICE'
+#Allowed Values: PTT, VOICE
+microphone_activation_type = "PTT"
+#The size of the audio output buffer in packets
+#Higher values mean a higher latency, but less crackles
+#Increase this value if you have an unstable internet connection
+#Range: 1 ~ 16
+output_buffer_size = 5
+#The maximum amount of audio packets that are held back if a packet arrives out of order or gets dropped
+#This prevents discarding audio packets that are slightly out of order
+#Set this to 0 to disable
+#Range: 0 ~ 16
+audio_packet_threshold = 3
+#The time it takes for the microphone to deactivate when using voice activation
+#A value of 1 means 20 milliseconds, 2=40 ms, 3=60 ms, ...
+#Range: 0 ~ 100
+voice_deactivation_delay = 25
+#The microphone used by the voice chat
+#Empty for default device
+microphone = ""
+#The speaker used by the voice chat
+#Empty for default device
+speaker = ""
+

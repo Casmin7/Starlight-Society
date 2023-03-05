@@ -1,0 +1,14 @@
+[21:10:32] [INFO ] server_scripts:script.js:3: Hello, World! (You will see this line every time server resources reload)
+[21:10:32] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[21:10:32] [INFO ] Loaded 1/1 KubeJS server scripts in 0.006 s
+[21:10:32] [INFO ] Scripts loaded
+[21:10:32] [INFO ] Scanning recipes...
+[21:10:34] [WARN ] Failed to parse recipe 'createplus:crafting/module_goggle_unit[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:module_base'
+[21:10:34] [WARN ] Failed to parse recipe createplus:crafting/module_goggle_unit[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:module_base'
+[21:10:34] [WARN ] Failed to parse recipe 'create_things_and_misc:schematic_chair[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[21:10:34] [WARN ] Failed to parse recipe create_things_and_misc:schematic_chair[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[21:10:34] [INFO ] Found 6360 recipes and 0 failed recipes in 209.4 ms
+[21:10:34] [INFO ] Posted recipe events in 2.121 ms
+[21:10:34] [INFO ] Modified & removed recipes in 75.71 ms
+[21:10:34] [INFO ] Added recipes in 1.243 ms
+[21:10:34] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

@@ -1,0 +1,1746 @@
+[11:15:52] [main/INFO]: ModLauncher running: args [--username, Casmin7, --version, forge-43.2.6, --gameDir, D:\Games\Mc\Instances\Starlight Society, --assetsDir, D:\Games\Mc\Install\assets, --assetIndex, 1.19, --uuid, 82f7ff2fdabd4b699217fbbd8d63ccff, --accessToken, ????????, --clientId, Y2IxMmNmNWYtOGZiNS00ZDYyLTg1NTgtM2E3MDIxMzRlNGZi, --xuid, 2535466807799235, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.6, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[11:15:52] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[11:15:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/Games/Mc/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[11:15:56] [main/INFO]: Found mod file 3dskinlayers-forge-1.5.2-mc1.19.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Ad-Astra-Giselle-Addon-forge-1.19.2-1.12.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ad_astra-forge-1.19.2-1.12.4.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file AI-Improvements-1.19.2-0.5.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file architectury-6.5.69-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ars_creo-1.19.2-3.1.3.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ars_elemental-1.19.2-0.5.8.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ars_nouveau-1.19.2-3.12.3.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file artifacts-1.19.2-5.0.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file AutoRegLib-1.8.2-55.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file backpacked-2.1.10-1.19.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file balm-forge-1.19.2-4.5.6.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file bettercombat-forge-1.6.1+1.19.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file betterfpsdist-1.19.2-1.8.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Bookshelf-Forge-1.19.2-16.2.17.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file botarium-forge-1.19.2-1.8.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file canary-mc1.19.2-0.1.9.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file carryon-forge-1.19.2-2.0.5.10.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file chat_heads-0.10.4-forge-1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file chunkloaders-1.2.3-forge-mc1.19.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file cloth-config-8.2.88-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Clumps-forge-1.19.2-9.0.0+14.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file collective-1.19.2-6.49.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file comforts-forge-6.0.3+1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file configured-2.0.1-1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file connectivity-1.19.2-3.4.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+7.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file create-1.19.2-0.5.0.i.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file create_misc_and_things_1.19.2_2.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file createaddition-1.19.2-20230202b.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file createchunkloading-1.3.0-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file createplus-1.19.2_v0.5.2a.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file CreativeCore_FORGE_v2.9.3_mc1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file creeperoverhaul-2.0.8-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file CTM-1.19.2-1.1.6+8.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.3.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file curiouslanterns-1.19.2-1.2.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Delightful-1.19.2-3.2.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file DeLogger-4.7.0-build.9+mc1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Ding-1.19.2-Forge-1.4.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file do-a-barrel-roll-2.6.2+1.19.2-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file dummmmmmy-1.19.2-1.7.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file dynamiclightsreforged-1.19.2_v1.4.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file EasyShulkerBoxes-v4.3.7-1.19.2-Forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file eatinganimation-1.19-3.1.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file entangled-1.3.13-forge-mc1.19.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file entityculling-forge-1.6.1-mc1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Explosiont-1.19.2-2.4.5.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Fallingleaves-1.19.1-1.3.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file FarmersDelight-1.19-1.2.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file FastFurnace-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Fastload-Reforged-2.6.9+1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file FastSuite-1.19.2-4.0.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file FastWorkbench-1.19.2-7.0.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ferritecore-5.0.3-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.40.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file getittogetherdrops-forge-1.19.2-1.3.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file gravestone-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file handcrafted-forge-1.19.2-2.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file hourglass-1.19.1-1.2.1.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Iceberg-1.19.2-forge-1.1.4.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file immersive_paintings-0.4.4+1.19.2-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file InventoryProfilesNext-forge-1.19-1.9.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file invhud.forge.1.19-3.4.7.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Jade-1.19.1-forge-8.8.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file JadeAddons-1.19.2-forge-3.4.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file jei-1.19.2-forge-11.6.0.1011.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.19-2.0.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.2.1.193.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file kotlinforforge-3.10.0-all.jar of type LIBRARY with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file labels-1.19.2-1.8.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file lazydfu-1.19-1.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file LegendaryTooltips-1.19.2-forge-1.4.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file letmedespawn-1.18.x-1.19.x-forge-1.0.3.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file libIPN-forge-1.19-2.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file light-overlay-7.0.1-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file logprot-1.19.2-1.9.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file maenchants-1.19.2-6.0.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file moonlight-1.19.2-2.2.13-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file MyServerIsCompatible-1.19-1.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file naturalist-forge-2.1.1-1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file NaturesCompass-1.19.2-1.10.0-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file NethersDelight-1.19-3.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file nightlights_1.19.2_1.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file oculus-mc1.19.2-1.2.8a.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file open-parties-and-claims-forge-1.19.2-0.16.6.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file OpenLoader-Forge-1.19.2-15.0.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file overloadedarmorbar-1.19.3-7.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Patchouli-1.19.2-77.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file PingHUD-2.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Placebo-1.19.2-7.1.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file platforms-1.19-1.10.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Prism-1.19.1-1.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file PuzzlesLib-v4.3.12-1.19.2-Forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Quark-3.4-393.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file radiantgear-forge-2.0.1+1.19.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ReAuth-1.19-Forge-4.0.7.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file resourcefulconfig-forge-1.19.2-1.0.19.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file resourcefullib-forge-1.19.2-1.1.22.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file rhino-forge-1902.2.2-build.264.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file rubidium-0.6.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file rubidium_extras-1.19.2_v1.3.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file seamless_loading_screen-1.19.2-4.0.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file SereneSeasons-1.19.2-8.1.0.24.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file shetiphiancore-forge-1.19.0-3.11.3.01.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file shutupexperimentalsettings-1.0.5.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file simple-rpc-forge-1.19.x-3.2.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file SimpleBackups-1.19.1-2.1.8.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file SimpleDiscordLink-forge-1.19.1-2.2.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file simpleshops-1.2.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Smooth Swapping-1.19.2-1.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file smoothboot(reloaded)-mc1.19.2-0.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file smoothchunk-1.19.1-2.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file SoL-Carrot-1.19.2-1.14.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file spark-1.10.29-forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Steam_Rails-1.19.2-1.1.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file supermartijn642configlib-1.1.6b-forge-mc1.19.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file supermartijn642corelib-1.1.4-forge-mc1.19.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file supplementaries-1.19.2-2.2.54.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ToolBelt-1.19.2-1.19.7.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file ToolStats-Forge-1.19.2-12.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file trashslot-forge-1.19-12.0.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file TreeChop-1.19.2-forge-0.17.6.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file VisualWorkbench-v4.2.3-1.19.2-Forge.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file voicechat-forge-1.19.2-2.3.28.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file Xaeros_Minimap_23.1.0_Forge_1.19.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file XaerosWorldMap_1.28.9_Forge_1.19.1.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsApi-1.19.2-Forge-3.8.8.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBetterDungeons-1.19.2-Forge-3.2.2.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.19.2-Forge-1.0.4.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsBridges-1.19.2-Forge-3.1.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/INFO]: Found mod file YungsExtras-1.19.2-Forge-3.1.0.jar of type MOD with provider {mods folder locator at D:\Games\Mc\Instances\Starlight Society\mods}
+[11:15:56] [main/WARN]: Mod file D:\Games\Mc\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.6\fmlcore-1.19.2-43.2.6.jar is missing mods.toml file
+[11:15:56] [main/WARN]: Mod file D:\Games\Mc\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.6\javafmllanguage-1.19.2-43.2.6.jar is missing mods.toml file
+[11:15:56] [main/WARN]: Mod file D:\Games\Mc\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.6\lowcodelanguage-1.19.2-43.2.6.jar is missing mods.toml file
+[11:15:56] [main/WARN]: Mod file D:\Games\Mc\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.6\mclanguage-1.19.2-43.2.6.jar is missing mods.toml file
+[11:15:56] [main/INFO]: Found mod file fmlcore-1.19.2-43.2.6.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@76954a33
+[11:15:56] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.2.6.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@76954a33
+[11:15:56] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.2.6.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@76954a33
+[11:15:56] [main/INFO]: Found mod file mclanguage-1.19.2-43.2.6.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@76954a33
+[11:15:56] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@76954a33
+[11:15:56] [main/INFO]: Found mod file forge-1.19.2-43.2.6-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@76954a33
+[11:15:57] [main/INFO]: Found 8 dependencies adding them to mods collection
+[11:15:57] [main/INFO]: Found mod file kffmod-3.10.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:57] [main/INFO]: Found mod file kfflib-3.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:57] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.8.a-14.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:57] [main/INFO]: Found mod file expandability-forge-7.0.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:57] [main/INFO]: Found mod file MixinExtras-0.2.0-beta.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:57] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:57] [main/INFO]: Found mod file kfflang-3.10.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:57] [main/INFO]: Found mod file spectrelib-forge-0.10.0+1.19.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5bcb04cb
+[11:15:59] [main/ERROR]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[11:15:59] [main/INFO]: Compatibility level set to JAVA_17
+[11:15:59] [main/ERROR]: Mixin config ad_astra_giselle_addon.mixin.common.json does not specify "minVersion" property
+[11:15:59] [main/ERROR]: Mixin config ad_astra_giselle_addon.mixin.client.json does not specify "minVersion" property
+[11:15:59] [main/ERROR]: Mixin config ad_astra_giselle_addon.mixin.forge.common.json does not specify "minVersion" property
+[11:15:59] [main/ERROR]: Mixin config ad_astra_giselle_addon.mixin.forge.client.json does not specify "minVersion" property
+[11:15:59] [main/ERROR]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[11:15:59] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[11:15:59] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.2.6, --gameDir, D:\Games\Mc\Instances\Starlight Society, --assetsDir, D:\Games\Mc\Install\assets, --uuid, 82f7ff2fdabd4b699217fbbd8d63ccff, --username, Casmin7, --assetIndex, 1.19, --accessToken, ????????, --clientId, Y2IxMmNmNWYtOGZiNS00ZDYyLTg1NTgtM2E3MDIxMzRlNGZi, --xuid, 2535466807799235, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[11:15:59] [main/WARN]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/INFO]: Loaded configuration file for Rubidium: 29 options available, 1 override(s) found
+[11:15:59] [main/WARN]: Reference map 'labels-common-refmap.json' for labels-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/WARN]: Reference map 'labels-forge-refmap.json' for labels.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/WARN]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/WARN]: Reference map 'explosiont.refmap.json' for explosiont.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/WARN]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:15:59] [main/WARN]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[11:15:59] [main/INFO]: Loaded configuration file for Canary: 106 options available, 0 override(s) found
+[11:16:00] [main/WARN]: Force-disabling mixin 'features.chunk_rendering.MixinChunkBuilder' as rule 'mixin.features.chunk_rendering' (added by user configuration) disables it and children
+[11:16:00] [main/WARN]: Force-disabling mixin 'features.chunk_rendering.MixinClientChunkMap' as rule 'mixin.features.chunk_rendering' (added by user configuration) disables it and children
+[11:16:00] [main/WARN]: Force-disabling mixin 'features.chunk_rendering.MixinClientPlayNetworkHandler' as rule 'mixin.features.chunk_rendering' (added by user configuration) disables it and children
+[11:16:00] [main/WARN]: Force-disabling mixin 'features.chunk_rendering.MixinClientWorld' as rule 'mixin.features.chunk_rendering' (added by user configuration) disables it and children
+[11:16:00] [main/WARN]: Force-disabling mixin 'features.chunk_rendering.MixinPackedIntegerArray' as rule 'mixin.features.chunk_rendering' (added by user configuration) disables it and children
+[11:16:00] [main/WARN]: Force-disabling mixin 'features.chunk_rendering.MixinPalettedContainer' as rule 'mixin.features.chunk_rendering' (added by user configuration) disables it and children
+[11:16:00] [main/WARN]: Force-disabling mixin 'features.chunk_rendering.MixinWorldRenderer' as rule 'mixin.features.chunk_rendering' (added by user configuration) disables it and children
+[11:16:00] [main/WARN]: Error loading class: me/desht/pneumaticcraft/common/util/upgrade/ApplicableUpgradesDB (java.lang.ClassNotFoundException: me.desht.pneumaticcraft.common.util.upgrade.ApplicableUpgradesDB)
+[11:16:00] [main/WARN]: @Mixin target me.desht.pneumaticcraft.common.util.upgrade.ApplicableUpgradesDB was not found ad_astra_giselle_addon.mixin.forge.common.json:pneumaticcraft.ApplicableUpgradesDBInject
+[11:16:01] [main/WARN]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[11:16:02] [main/INFO]: !!! SOME LOGGERS HAVE MOVED TO THE DEBUG FILE (Please Include them in your bug reports) !!!
+[11:16:07] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[11:16:08] [pool-3-thread-1/INFO]: TerraBlender not found, using injection method
+[11:16:09] [Render thread/WARN]: Method overwrite conflict for m_85995_ in mixins.oculus.vertexformat.json:block_rendering.MixinBufferBuilder_SeparateAo, previously written by me.jellysquid.mods.sodium.mixin.features.buffer_builder.intrinsics.MixinBufferBuilder. Skipping method.
+[11:16:09] [Render thread/WARN]: Assets URL 'union:/D:/Games/Mc/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23429!/assets/.mcassetsroot' uses unexpected schema
+[11:16:09] [Render thread/WARN]: Assets URL 'union:/D:/Games/Mc/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23429!/data/.mcassetsroot' uses unexpected schema
+[11:16:09] [Render thread/INFO]: Setting user: Casmin7
+[11:16:09] [Render thread/INFO]: Loading config file from D:\Games\Mc\Instances\Starlight Society\config\simple-rpc\simple-rpc.toml
+[11:16:09] [Render thread/INFO]: Registered simple-rpc.toml successfully!
+[11:16:10] [Render thread/INFO]: Loading config file from D:\Games\Mc\Instances\Starlight Society\config\simple-rpc\server-entries.toml
+[11:16:10] [Render thread/INFO]: Registered server-entries.toml successfully!
+[11:16:10] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[11:16:10] [Render thread/INFO]: Debug functionality is disabled.
+[11:16:12] [Render thread/INFO]: Profile: Custom (+19 options changed by user)
+[11:16:12] [pool-4-thread-2/INFO]: Connected and Ready!
+[11:16:13] [Render thread/INFO]: Using shaderpack: ComplementaryShaders_v4.7.1
+[11:16:13] [modloading-worker-0/INFO]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[11:16:13] [modloading-worker-0/WARN]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
+[11:16:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[11:16:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[11:16:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[11:16:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[11:16:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[11:16:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[11:16:13] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[11:16:13] [modloading-worker-0/INFO]: Saving config to D:\Games\Mc\Instances\Starlight Society\config\toolstats.json.
+[11:16:13] [modloading-worker-0/INFO]: Loading Collective version 6.49.
+[11:16:14] [modloading-worker-0/INFO]: CHUNK_TRY_LIMIT: 100
+[11:16:14] [modloading-worker-0/INFO]: CLOSE_LOADING_SCREEN_UNSAFELY: FALSE
+[11:16:14] [modloading-worker-0/INFO]: Constructing client components for mod easyshulkerboxes
+[11:16:14] [modloading-worker-0/INFO]: PRE_RENDER_RADIUS: 0
+[11:16:14] [modloading-worker-0/INFO]: PRE_RENDER_AREA: 0
+[11:16:14] [modloading-worker-0/INFO]: DEBUG: FALSE
+[11:16:14] [modloading-worker-0/INFO]: PREGEN_CHUNK_RADIUS: 5
+[11:16:14] [modloading-worker-0/INFO]: PREGEN_CHUNK_AREA: 121
+[11:16:14] [modloading-worker-0/INFO]: Constructing common components for mod easyshulkerboxes
+[11:16:14] [modloading-worker-0/INFO]: Constructing client components for mod visualworkbench
+[11:16:14] [modloading-worker-0/INFO]: Constructing common components for mod visualworkbench
+[11:16:14] [modloading-worker-0/INFO]: Constructing common components for mod easyshulkerboxes
+[11:16:14] [modloading-worker-0/INFO]: Forge mod loading, version 43.2.6, for MC 1.19.2 with MCP 20220805.130853
+[11:16:14] [modloading-worker-0/INFO]: MinecraftForge v43.2.6 Initialized
+[11:16:14] [modloading-worker-0/INFO]: Loaded config file.
+[11:16:14] [modloading-worker-0/INFO]: Saved config file.
+[11:16:14] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[11:16:14] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[11:16:14] [modloading-worker-0/INFO]: Oculus detected.
+[11:16:14] [modloading-worker-0/INFO]: Constructing common components for mod puzzleslib
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[11:16:14] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AncientWoodModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ZombieVillagersOnNormalModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SpongeOnWaterPlacementModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SlabsToBlocksModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ShulkerPackingModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SaferCreaturesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.RenewableSporeBlossomsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.NoDurabilityOnCosmeticsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreNoteBlockSoundsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HorsesSwimModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GoldToolsHaveFortuneModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DyeableItemFramesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CoralOnCactusModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TorchArrowModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[11:16:14] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.AutomaticToolRestockModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.WoolShutsUpMinecartsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.LongRangePickBlockModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ElytraIndicatorModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.CameraModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybindModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RawMetalBricksModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreMudBlocksModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.JapanesePaletteModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HollowLogsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.BambooBackportModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[11:16:15] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[11:16:15] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Redstone Randomizer
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Pistons Move Tile Entities
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Obsidian Plate
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Metal Buttons
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Jukebox Automation
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Iron Rod
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Gravisand
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Feeding Trough
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Ender Watcher
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Dispensers Place Blocks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Chute
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Chains Connect Blocks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Wooden Posts
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Vertical Slabs
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Vertical Planks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Variant Ladders
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Variant Furnaces
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Variant Chests
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Variant Bookshelves
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Thatch
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Sturdy Stone
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Stools
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Soul Sandstone
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Shingles
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Shear Vines
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Rope
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Raw Metal Bricks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Nether Brick Fence Gate
+[11:16:15] [modloading-worker-0/INFO]: Loading Module More Stone Variants
+[11:16:15] [modloading-worker-0/INFO]: Loading Module More Potted Plants
+[11:16:15] [modloading-worker-0/INFO]: Loading Module More Mud Blocks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module More Brick Types
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Midori
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Leaf Carpet
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Japanese Palette
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Industrial Palette
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Hollow Logs
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Hedges
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Grate
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Gold Bars
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Glass Item Frame
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Framed Glass
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Duskbound Blocks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Compressed Blocks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Celebratory Lamps
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Bamboo Backport
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Quick Armor Swapping
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Item Sharing
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Inventory Sorting
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Hotbar Changer
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Expanded Item Interactions
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Easy Transfering
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Automatic Tool Restock
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Trowel
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Torch Arrow
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Slime In A Bucket
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Skull Pikes
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Seed Pouch
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Pickarang
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Pathfinder Maps
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Parrot Eggs
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Endermosh Music Disc
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Color Runes
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Bundle Recipe
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Bottled Cloud
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Beacon Redirection
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Ancient Tomes
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Ambient Discs
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Abacus
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Zombie Villagers On Normal
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Villagers Follow Emeralds
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Vexes Die With Their Masters
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Utility Recipes
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Sponge On Water Placement
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Snow Golem Player Heads
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Slabs To Blocks
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Simple Harvest
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Sign Editing
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Shulker Packing
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Safer Creatures
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Replace Scaffolding
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Renewable Spore Blossoms
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Reacharound Placing
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Poison Potato Usage
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Pig Litters
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Pat The Dogs
+[11:16:15] [modloading-worker-0/INFO]: Loading Module No Durability On Cosmetics
+[11:16:15] [modloading-worker-0/INFO]: Loading Module More Note Block Sounds
+[11:16:15] [modloading-worker-0/INFO]: Loading Module More Banner Layers
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Lock Rotation
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Horses Swim
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Hoe Harvesting
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Grab Chickens
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Gold Tools Have Fortune
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Glass Shard
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Enhanced Ladders
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Emotes
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Dyeable Item Frames
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Dragon Scales
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Double Door Opening
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Coral On Cactus
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Compasses Work Everywhere
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Campfires Boost Elytra
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Better Elytra Rocket
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Automatic Recipe Unlock
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Armed Armor Stands
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Spiral Spires
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Permafrost
+[11:16:15] [modloading-worker-0/INFO]: Loading Module No More Lava Pockets
+[11:16:15] [modloading-worker-0/INFO]: Loading Module New Stone Types
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Nether Obsidian Spikes
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Monster Box
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Glimmering Weald
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Fairy Rings
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Corundum
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Chorus Vegetation
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Blossom Trees
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Big Stone Clusters
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Azalea Wood
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Ancient Wood
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Wraith
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Toretoise
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Stonelings
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Shiba
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Foxhound
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Forgotten
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Crabs
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Wool Shuts Up Minecarts
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Variant Animal Textures
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Uses For Curses
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Usage Ticker
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Soul Candles
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Microcrafting Helper
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Long Range Pick Block
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Improved Tooltips
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Greener Grass
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Elytra Indicator
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Chest Searching
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Camera
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Back Button Keybind
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Auto Walk Keybind
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Spawner Replacer
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Overlay Shader
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Narrator Readout
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Game Nerfs
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Enchantments Begone
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Adjustable Chat
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Totem Of Holding
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Tiny Potato
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Pipes
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Matrix Enchanting
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Magnets
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Crate
+[11:16:15] [modloading-worker-0/INFO]: Loading Module Backpack
+[11:16:15] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT_CLIENT
+[11:16:15] [modloading-worker-0/INFO]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[11:16:15] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[11:16:15] [modloading-worker-0/INFO]: [libIPN] libIPN - init in Kotlin
+[11:16:16] [Render thread/INFO]: Dispatching Module Step REGISTER
+[11:16:17] [Render thread/INFO]: Dispatching Module Step POST_REGISTER
+[11:16:18] [Render thread/INFO]: Initialized block sets in 7ms
+[11:16:18] [Render thread/INFO]: Preparing Resource Pack injection.
+[11:16:18] [Render thread/INFO]: Loaded archive Resource Pack from D:\Games\Mc\Instances\Starlight Society\config\openloader\resources\Glass Panes CTM Fix 1.19.2-1.0.zip.
+[11:16:18] [Render thread/INFO]: Loaded archive Resource Pack from D:\Games\Mc\Instances\Starlight Society\config\openloader\resources\MC Connected CTM v1.3-1.19.2.zip.
+[11:16:18] [Render thread/INFO]: Successfully injected 2/2 packs from D:\Games\Mc\Instances\Starlight Society\config\openloader\resources.
+[11:16:19] [Render thread/INFO]: Hardware information:
+[11:16:19] [Render thread/INFO]: CPU: 16x 12th Gen Intel(R) Core(TM) i7-12650H
+[11:16:19] [Render thread/INFO]: GPU: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2 (Supports OpenGL 3.2.0 NVIDIA 528.49)
+[11:16:19] [Render thread/INFO]: OS: Windows 10 (10.0)
+[11:16:19] [Render thread/INFO]: Dispatching Module Step SETUP_CLIENT
+[11:16:19] [Render thread/INFO]: Registering model layer quark:crab#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:shiba#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:quark_boat_chest#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:wraith#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:forgotten_hat#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:stoneling#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:toretoise#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:quark_boat#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:foxhound#main
+[11:16:19] [Render thread/INFO]: Registering model layer quark:backpack#main
+[11:16:19] [Render thread/INFO]: Dispatching Module Step REGISTER_TOOLTIP_COMPONENT_FACTORIES
+[11:16:19] [Render thread/INFO]: Dispatching Module Step REGISTER_KEYBINDS
+[11:16:19] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[11:16:19] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, Supplementaries Generated Pack, quark-emote-pack, Glass Panes CTM Fix 1.19.2-1.0.zip, MC Connected CTM v1.3-1.19.2.zip
+[11:16:19] [Worker-Main7/WARN]: Detected invalid path 'textures/blocks/Truc.zip'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main7/WARN]: Detected invalid path 'textures/blocks/Truc.zip'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main7/WARN]: Detected invalid path 'textures/item/LICENSE'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main7/WARN]: Detected invalid path 'textures/item/LICENSE'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'config/ModIntegrationHintsNG.json'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'config/ModIntegrationHintsNG.json'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'config/exampleIntegrationHints.json'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'config/exampleIntegrationHints.json'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main7/WARN]: Detected invalid path 'models/block/lava_lily/volcanic_accumulator_grate_v01 - Copy.json'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main7/WARN]: Detected invalid path 'models/block/lava_lily/volcanic_accumulator_grate_v01 - Copy.json'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'lang/README.txt'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'lang/README.txt'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'libIPN-logo.png'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'libIPN-logo.png'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'lang/Localization Readme.md'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'lang/Localization Readme.md'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/steam_whistle/Whistle.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/steam_whistle/Whistle.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/item/extendo_grip/Extender.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/item/extendo_grip/Extender.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/machine_base/Machine Base and Inserter.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/machine_base/Machine Base and Inserter.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted_ejector - Shortcut.lnk'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted_ejector - Shortcut.lnk'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted depot.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted depot.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted_ejector - Shortcut.lnk'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted_ejector - Shortcut.lnk'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted depot.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/weighted_ejector/weighted depot.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/steam_engine/Steam Piston.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/block/steam_engine/Steam Piston.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/item/extendo_grip/Extender.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main4/WARN]: Detected invalid path 'models/item/extendo_grip/Extender.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/steam_whistle/Whistle.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/steam_whistle/Whistle.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/steam_engine/Steam Piston.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/steam_engine/Steam Piston.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/machine_base/Machine Base and Inserter.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'models/block/machine_base/Machine Base and Inserter.bbmodel'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'lang/Localization Readme.md'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:19] [Worker-Main5/WARN]: Detected invalid path 'lang/Localization Readme.md'. Oculus allows this path to be used, but the resource pack developer should fix it!
+[11:16:20] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Supplementaries Generated Pack in: 267 ms
+[11:16:20] [modloading-worker-0/INFO]: Loading client config for visualworkbench
+[11:16:20] [modloading-worker-0/INFO]: Loading client config for easyshulkerboxes
+[11:16:21] [Worker-Main2/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:21] [Worker-Main8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:21] [Worker-Main6/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:21] [Worker-Main7/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:21] [Worker-Main5/INFO]: Loading Open Parties and Claims!
+[11:16:21] [Worker-Main7/INFO]: Connectivity initialized
+[11:16:21] [Worker-Main3/INFO]: Shields up!
+[11:16:21] [Worker-Main3/INFO]: Compatibility version 15
+[11:16:21] [Worker-Main5/INFO]: Hey, it's Night Lights!
+[11:16:21] [Worker-Main7/INFO]: betterfpsdist mod initialized
+[11:16:21] [Worker-Main3/INFO]: Loading plugins
+[11:16:21] [Worker-Main3/INFO]: Loaded 0 plugin(s)
+[11:16:21] [Worker-Main3/INFO]: Initializing plugins
+[11:16:21] [Worker-Main3/INFO]: Initialized 0 plugin(s)
+[11:16:21] [Worker-Main3/INFO]: Create Plus Setup
+[11:16:21] [Worker-Main3/INFO]: Dispatching Module Step CONFIG_CHANGED
+[11:16:21] [Worker-Main3/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[11:16:21] [Worker-Main3/INFO]: Dispatching Module Step SETUP
+[11:16:22] [Render thread/INFO]: Finished mod setup in: [0, 13, 2, 2, 0, 1, 0, 0, 0] ms
+[11:16:22] [Render thread/INFO]: Initialized color sets in 33ms
+[11:16:22] [Worker-Main8/INFO]: Loading Xaero's World Map - Stage 1/2
+[11:16:22] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[11:16:22] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[11:16:22] [Placebo Patreon Wing Loader/INFO]: Loaded 18 patreon wings.
+[11:16:22] [Placebo Patreon Trail Loader/INFO]: Loaded 23 patreon trails.
+[11:16:22] [Worker-Main6/INFO]: Create Plus Client Setup
+[11:16:22] [Worker-Main3/INFO]: Loading Xaero's Minimap - Stage 1/2
+[11:16:22] [Worker-Main6/INFO]: Dispatching Module Step SETUP_CLIENT
+[11:16:24] [Render thread/INFO]: Loading Xaero's Minimap - Stage 2/2
+[11:16:25] [Render thread/INFO]: Xaero's Minimap: World Map found!
+[11:16:25] [Render thread/INFO]: Xaero's Minimap: Open Parties And Claims found!
+[11:16:25] [Render thread/INFO]: No Optifine!
+[11:16:25] [Render thread/INFO]: Xaero's Minimap: No Vivecraft!
+[11:16:25] [Render thread/INFO]: Loading Xaero's World Map - Stage 2/2
+[11:16:25] [Render thread/INFO]: New world map region cache hash code: -643286570
+[11:16:25] [Render thread/INFO]: Xaero's WorldMap Mod: Xaero's minimap found!
+[11:16:25] [Render thread/INFO]: Xaero's WorldMap Mod: Open Parties And Claims found!
+[11:16:25] [Render thread/INFO]: No Optifine!
+[11:16:25] [Render thread/INFO]: Xaero's World Map: No Vivecraft!
+[11:16:26] [Worker-Main4/INFO]: Dispatching Module Step REIGSTER_ADDITIONAL_MODELS
+[11:16:28] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:29] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:29] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:29] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:29] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:29] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:29] [Worker-Main4/INFO]: Dispatching Module Step TEXTURE_STITCH
+[11:16:29] [Render thread/INFO]: Loaded all shader sources.
+[11:16:29] [Worker-Main4/INFO]: Dispatching Module Step LOAD_COMPLETE
+[11:16:29] [Worker-Main6/INFO]: Start loading plugin at ht.treechop.compat.Jade
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at shetiphian.core.internal.modintegration.jade.JadePlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at com.supermartijn642.entangled.integration.EntangledWailaPlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.addon.general.GeneralPlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.addon.create.CreatePlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[11:16:30] [Worker-Main6/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[11:16:30] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.forge.ForgeConfigProvider
+[11:16:30] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.simple.SimpleConfigProvider
+[11:16:30] [Render thread/INFO]: Successfully loaded config provider: com.anthonyhilyard.iceberg.compat.configured.IcebergConfigProvider
+[11:16:30] [Render thread/INFO]: Creating config GUI factories...
+[11:16:30] [Render thread/INFO]: Registering config factory for mod maenchants. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod treechop. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod betterdungeons. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod betterwitchhuts. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod openpartiesandclaims. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod betteroceanmonuments. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod reauth. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod railways. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod labels. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod carryon. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod jeresources. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod betterfortresses. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod shetiphiancore. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod dummmmmmy. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod farmersdelight. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod getittogetherdrops. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod do_a_barrel_roll. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod curiouslanterns. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod curios. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod patchouli. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod explosiont. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod seamless_loading_screen. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod betterstrongholds. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod ars_creo. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod aiimprovements. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod easyshulkerboxes. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod bettermineshafts. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod trashslot. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod platforms. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod jei. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod visualworkbench. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod fallingleaves. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod naturescompass. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod artifacts. Found 3 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod sereneseasons. Found 3 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod configured. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod betterdeserttemples. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod ars_nouveau. Found 79 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod forge. Found 3 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod logprot. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod simplebackups. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod toolbelt. Found 3 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod ding. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod betterfpsdist. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod flywheel. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod legendarytooltips. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod gravestone. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod ars_elemental. Found 23 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod backpacked. Found 3 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod creeperoverhaul. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod appleskin. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod solcarrot. Found 2 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod smoothswapping. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod delightful. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod overloadedarmorbar. Found 1 config(s)
+[11:16:30] [Render thread/INFO]: Registering config factory for mod createaddition. Found 1 config(s)
+[11:16:32] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[11:16:32] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[11:16:32] [Render thread/WARN]: Missing sound for event: supplementaries:item.wrench.hit
+[11:16:33] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Realtek(R) Audio)
+[11:16:33] [Render thread/INFO]: Sound engine started
+[11:16:33] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:33] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:33] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:33] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:33] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:33] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:33] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:37] [Render thread/INFO]: Dispatching Module Step MODEL_BAKE
+[11:16:37] [Render thread/INFO]: Dispatching Module Step MODEL_LAYERS
+[11:16:37] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[11:16:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:37] [Render thread/INFO]: Successfully reloaded the world map shaders!
+[11:16:37] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 0 jsons
+[11:16:37] [Render thread/INFO]: Not reloading resource pack-based books as client world is missing
+[11:16:37] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[11:16:37] [Render thread/INFO]: Successfully reloaded the minimap shaders!
+[11:16:37] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[11:16:38] [Render thread/WARN]: [Triforce Patcher] gl_FragColor is not supported yet, please use gl_FragData! Assuming that the shaderpack author intended to use gl_FragData[0]...
+[11:16:38] [Render thread/INFO]: Loaded AmbientEngine 'basic' v2.1.5. 11 dimension(s), 8 features, 9 groups, 31 regions, 57 sounds, 4 solids and 2 biome types
+[11:16:38] [Render thread/INFO]: Dispatching Module Step FIRST_CLIENT_TICK
+[11:16:41] [Render thread/ERROR]: Calling server config when it is not yet available! This is a bug! Message: Config data is missing
+java.lang.Exception: Config not yet available
+	at fuzs.puzzleslib.config.ForgeConfigDataHolderImpl.lambda$testAvailable$1(ForgeConfigDataHolderImpl.java:45) ~[PuzzlesLib-v4.3.12-1.19.2-Forge.jar%23385!/:4.3.12]
+	at com.mojang.datafixers.util.Either$Right.ifRight(Either.java:109) ~[datafixerupper-5.0.28.jar%23120!/:?]
+	at fuzs.puzzleslib.config.ForgeConfigDataHolderImpl.testAvailable(ForgeConfigDataHolderImpl.java:44) ~[PuzzlesLib-v4.3.12-1.19.2-Forge.jar%23385!/:4.3.12]
+	at fuzs.puzzleslib.config.ConfigDataHolderImpl.getOrCreateDefaultConfig(ConfigDataHolderImpl.java:70) ~[PuzzlesLib-v4.3.12-1.19.2-Forge.jar%23385!/:4.3.12]
+	at fuzs.puzzleslib.config.ConfigDataHolderImpl.config(ConfigDataHolderImpl.java:59) ~[PuzzlesLib-v4.3.12-1.19.2-Forge.jar%23385!/:4.3.12]
+	at fuzs.puzzleslib.config.ConfigHolder.get(ConfigHolder.java:28) ~[PuzzlesLib-v4.3.12-1.19.2-Forge.jar%23385!/:4.3.12]
+	at fuzs.easyshulkerboxes.client.EasyShulkerBoxesForgeClient.lambda$registerHandlers$4(EasyShulkerBoxesForgeClient.java:36) ~[EasyShulkerBoxes-v4.3.7-1.19.2-Forge.jar%23332!/:4.3.7]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.client.ForgeHooksClient.onScreenMouseClickedPre(ForgeHooksClient.java:641) ~[forge-1.19.2-43.2.6-universal.jar%23434!/:?]
+	at net.minecraft.client.MouseHandler.m_168084_(MouseHandler.java:86) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.gui.screens.Screen.m_96579_(Screen.java:522) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.MouseHandler.m_91530_(MouseHandler.java:85) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.MouseHandler.m_168091_(MouseHandler.java:185) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:103) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.MouseHandler.m_91565_(MouseHandler.java:184) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.1.jar%23138!/:build 7]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.1.jar%23130!/:build 7]
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3403) ~[lwjgl-glfw-3.3.1.jar%23138!/:build 7]
+	at com.mojang.blaze3d.systems.RenderSystem.m_69495_(RenderSystem.java:197) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at com.mojang.blaze3d.platform.Window.m_85435_(Window.java:337) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1143) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.6.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[11:16:42] [Netty Client IO #0/INFO]: Client has mods that are missing on server: [explosiont, shutupexperimentalsettings, myserveriscompatible, inventoryhud]
+[11:16:45] [Render thread/INFO]: Screenshot loaded at D:\Games\Mc\Instances\Starlight Society\screenshots\worlds\servers\minecraft.drakesmith.net_25565.png
+[11:16:45] [Render thread/INFO]: Screenshot loaded at D:\Games\Mc\Instances\Starlight Society\screenshots\worlds\servers\minecraft.drakesmith.net_25565.png
+[11:16:45] [Render thread/INFO]: Connecting to minecraft.drakesmith.net, 25565
+[11:16:51] [Netty Client IO #1/INFO]: Reloading server config for easyshulkerboxes
+[11:16:53] [Netty Client IO #1/INFO]: Connected to a modded server.
+[11:16:53] [Render thread/INFO]: New minimap session initialized!
+[11:16:53] [Render thread/INFO]: New world map session initialized!
+[11:16:53] [Render thread/INFO]: [Inventory Profiles Next] Loaded 1 external GUI hints
+[11:16:53] [Render thread/INFO]: [Inventory Profiles Next] Loaded 769 build-in GUI hints
+[11:16:53] [Render thread/INFO]: [Inventory Profiles Next] Effective GUI hints after merge: 770
+[11:16:53] [Render thread/WARN]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[11:16:53] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[11:16:53] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[11:16:53] [Render thread/INFO]: Sending chop settings sync request
+[11:16:53] [Render thread/INFO]: Sending secret request to the server
+[11:16:53] [Render thread/INFO]: Synced Flute Songs
+[11:16:53] [Render thread/INFO]: Synced Captured Mobs settings
+[11:16:53] [Render thread/INFO]: Synced Globe data
+[11:16:53] [Render thread/INFO]: Synced Hourglass data
+[11:16:54] [Render thread/INFO]: Animated skins loaded and ready to use!
+[11:16:54] [Render thread/INFO]: Reloading entity icon resources...
+[11:16:54] [Render thread/INFO]: Done!
+[11:16:54] [Render thread/INFO]: Successfully processed 6304 recipes into the AuxRecipeManager.
+[11:16:54] [Render thread/ERROR]: ########## GL ERROR ##########
+[11:16:54] [Render thread/ERROR]: @ Pre render
+[11:16:54] [Render thread/ERROR]: 65540: Invalid scancode -1
+[11:16:54] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[11:16:56] [Render thread/INFO]: Finished additional setup in 22 ms
+[11:16:56] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[11:16:56] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[11:16:56] [Render thread/INFO]: Starting JEI...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 998.2 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: minecraft:jeresources ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: minecraft:jeresources took 4.200 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: supplementaries:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: supplementaries:jei_plugin took 270.6 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin took 2.800 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: curios:curios ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: curios:curios took 2.000 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: patchouli:patchouli ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: patchouli:patchouli took 125.9 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: trashslot:trashslot ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: trashslot:trashslot took 43.00 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:gui ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:gui took 2.200 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:debug took 15.30 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:forge_gui ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:forge_gui took 2.200 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: visualworkbench:crafting ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: visualworkbench:crafting took 9.700 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: artifacts:main ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: artifacts:main took 5.900 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ars_nouveau:main ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ars_nouveau:main took 2.100 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: toolbelt:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: toolbelt:jei_plugin took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jade:main ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jade:main took 3.500 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: nethersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: nethersdelight:jei_plugin took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: create:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: create:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: justenoughprofessions:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: justenoughprofessions:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: quark:quark ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: quark:quark took 1.039 ms
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ars_elemental:main ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ars_elemental:main took 2.200 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: delightful:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: delightful:jei_plugin took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: createaddition:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: createaddition:jei_plugin took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ad_astra:jei ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ad_astra:jei took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ad_astra_giselle_addon:jei ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: ad_astra_giselle_addon:jei took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[11:16:56] [Render thread/INFO]: Registering item subtypes: jei:internal took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 7.900 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: minecraft:jeresources ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: minecraft:jeresources took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: supplementaries:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: supplementaries:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: curios:curios ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: curios:curios took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: patchouli:patchouli ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: patchouli:patchouli took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: trashslot:trashslot ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: trashslot:trashslot took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:gui ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:gui took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 559.3 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:forge_gui took 2.300 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: visualworkbench:crafting ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: visualworkbench:crafting took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: artifacts:main ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: artifacts:main took 6.000 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ars_nouveau:main ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ars_nouveau:main took 1.900 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: toolbelt:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: toolbelt:jei_plugin took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jade:main ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jade:main took 21.50 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: nethersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: nethersdelight:jei_plugin took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: create:jei_plugin took 953.6 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: justenoughprofessions:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: justenoughprofessions:jei_plugin took 2.300 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: quark:quark ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: quark:quark took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ars_elemental:main ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ars_elemental:main took 2.300 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: delightful:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: delightful:jei_plugin took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: createaddition:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: createaddition:jei_plugin took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ad_astra:jei ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ad_astra:jei took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ad_astra_giselle_addon:jei ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: ad_astra_giselle_addon:jei took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[11:16:56] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:minecraft took 90.06 ms
+[11:16:56] [Render thread/INFO]: Registering ingredients: minecraft:jeresources ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: minecraft:jeresources took 4.000 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: supplementaries:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: supplementaries:jei_plugin took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: curios:curios ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: curios:curios took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: patchouli:patchouli ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: patchouli:patchouli took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: trashslot:trashslot ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: trashslot:trashslot took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:gui ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:gui took 3.800 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[11:16:56] [Render thread/INFO]: Loading config file: D:\Games\Mc\Instances\Starlight Society\config\jei\jei-debug.ini
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:debug took 2.633 ms
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:forge_gui ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:forge_gui took 2.600 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: visualworkbench:crafting ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: visualworkbench:crafting took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: artifacts:main ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: artifacts:main took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: ars_nouveau:main ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: ars_nouveau:main took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: toolbelt:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: toolbelt:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: jade:main ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: jade:main took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: nethersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: nethersdelight:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: create:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: create:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: justenoughprofessions:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: justenoughprofessions:jei_plugin took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: quark:quark ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: quark:quark took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: ars_elemental:main ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: ars_elemental:main took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: delightful:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: delightful:jei_plugin took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: createaddition:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: createaddition:jei_plugin took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: ad_astra:jei ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: ad_astra:jei took 2.100 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: ad_astra_giselle_addon:jei ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: ad_astra_giselle_addon:jei took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[11:16:56] [Render thread/INFO]: Registering ingredients: jei:internal took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[11:16:56] [Render thread/INFO]: Registering categories: jei:minecraft took 10.30 ms
+[11:16:56] [Render thread/INFO]: Registering categories: minecraft:jeresources ...
+[11:16:56] [Render thread/INFO]: Reloading ResourceManager: Default, maenchants-1.19.2-6.0.0.jar, dynamiclightsreforged-1.19.2_v1.4.0.jar, TreeChop-1.19.2-forge-0.17.6.jar, YungsBetterDungeons-1.19.2-Forge-3.2.2.jar, create_misc_and_things_1.19.2_2.0.jar, supermartijn642configlib-1.1.6b-forge-mc1.19.jar, YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar, open-parties-and-claims-forge-1.19.2-0.16.6.jar, player-animation-lib-forge-1.0.2.jar, botarium-forge-1.19.2-1.8.2.jar, naturalist-forge-2.1.1-1.19.2.jar, YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar, connectivity-1.19.2-3.4.jar, rubidium-0.6.2.jar, hourglass-1.19.1-1.2.1.1.jar, XaerosWorldMap_1.28.9_Forge_1.19.1.jar, CTM-1.19.2-1.1.6+8.jar, Controlling-forge-1.19.2-10.0+7.jar, ReAuth-1.19-Forge-4.0.7.jar, Prism-1.19.1-1.0.2.jar, Placebo-1.19.2-7.1.2.jar, YungsApi-1.19.2-Forge-3.8.8.jar, Bookshelf-Forge-1.19.2-16.2.17.jar, balm-forge-1.19.2-4.5.6.jar, carryon-forge-1.19.2-2.0.5.10.jar, JustEnoughResources-1.19.2-1.2.1.193.jar, chat_heads-0.10.4-forge-1.19.2.jar, DeLogger-4.7.0-build.9+mc1.19.2.jar, YungsBetterNetherFortresses-1.19.2-Forge-1.0.4.jar, cloth-config-8.2.88-forge.jar, shetiphiancore-forge-1.19.0-3.11.3.01.jar, dummmmmmy-1.19.2-1.7.1.jar, supplementaries-1.19.2-2.2.54.jar, SimpleDiscordLink-forge-1.19.1-2.2.0.jar, FarmersDelight-1.19-1.2.0.jar, handcrafted-forge-1.19.2-2.0.2.jar, entangled-1.3.13-forge-mc1.19.jar, AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar, getittogetherdrops-forge-1.19.2-1.3.jar, ToolStats-Forge-1.19.2-12.0.2.jar, simpleshops-1.2.2.jar, do-a-barrel-roll-2.6.2+1.19.2-forge.jar, supermartijn642corelib-1.1.4-forge-mc1.19.jar, YungsBridges-1.19.2-Forge-3.1.0.jar, resourcefulconfig-forge-1.19.2-1.0.19.jar, spark-1.10.29-forge.jar, curiouslanterns-1.19.2-1.2.1.jar, curios-forge-1.19.2-5.1.3.0.jar, Patchouli-1.19.2-77.jar, oculus-mc1.19.2-1.2.8a.jar, collective-1.19.2-6.49.jar, Explosiont-1.19.2-2.4.5.jar, YungsExtras-1.19.2-Forge-3.1.0.jar, PingHUD-2.0.jar, seamless_loading_screen-1.19.2-4.0.1.jar, YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar, resourcefullib-forge-1.19.2-1.1.22.jar, eatinganimation-1.19-3.1.0.jar, InventoryProfilesNext-forge-1.19-1.9.2.jar, architectury-6.5.69-forge.jar, AI-Improvements-1.19.2-0.5.2.jar, light-overlay-7.0.1-forge.jar, chunkloaders-1.2.3-forge-mc1.19.jar, JadeAddons-1.19.2-forge-3.4.0.jar, EasyShulkerBoxes-v4.3.7-1.19.2-Forge.jar, letmedespawn-1.18.x-1.19.x-forge-1.0.3.jar, YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar, geckolib-forge-1.19-3.1.40.jar, rhino-forge-1902.2.2-build.264.jar, Fastload-Reforged-2.6.9+1.19.2.jar, trashslot-forge-1.19-12.0.2.jar, platforms-1.19-1.10.2.jar, jei-1.19.2-forge-11.6.0.1011.jar, VisualWorkbench-v4.2.3-1.19.2-Forge.jar, simple-rpc-forge-1.19.x-3.2.1.jar, createchunkloading-1.3.0-forge.jar, Fallingleaves-1.19.1-1.3.1.jar, FastSuite-1.19.2-4.0.0.jar, Clumps-forge-1.19.2-9.0.0+14.jar, shutupexperimentalsettings-1.0.5.jar, comforts-forge-6.0.3+1.19.2.jar, NaturesCompass-1.19.2-1.10.0-forge.jar, artifacts-1.19.2-5.0.1.jar, SereneSeasons-1.19.2-8.1.0.24.jar, configured-2.0.1-1.19.2.jar, MyServerIsCompatible-1.19-1.0.jar, lazydfu-1.19-1.0.2.jar, YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar, ars_nouveau-1.19.2-3.12.3.jar, rubidium_extras-1.19.2_v1.3.2.jar, 3dskinlayers-forge-1.5.2-mc1.19.1.jar, forge-1.19.2-43.2.6-universal.jar, client-1.19.2-20220805.130853-srg.jar, smoothchunk-1.19.1-2.0.jar, logprot-1.19.2-1.9.jar, SimpleBackups-1.19.1-2.1.8.jar, voicechat-forge-1.19.2-2.3.28.jar, libIPN-forge-1.19-2.0.2.jar, EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar, radiantgear-forge-2.0.1+1.19.2.jar, moonlight-1.19.2-2.2.13-forge.jar, labels-1.19.2-1.8.jar, MouseTweaks-forge-mc1.19-2.23.jar, bettercombat-forge-1.6.1+1.19.jar, ToolBelt-1.19.2-1.19.7.jar, nightlights_1.19.2_1.1.jar, Jade-1.19.1-forge-8.8.0.jar, CreativeCore_FORGE_v2.9.3_mc1.19.2.jar, spectrelib-forge-0.10.0+1.19.jar, smoothboot(reloaded)-mc1.19.2-0.0.2.jar, NethersDelight-1.19-3.0.jar, Ding-1.19.2-Forge-1.4.0.jar, betterfpsdist-1.19.2-1.8.jar, kffmod-3.10.0.jar, Iceberg-1.19.2-forge-1.1.4.jar, flywheel-forge-1.19.2-0.6.8.a-14.jar, create-1.19.2-0.5.0.i.jar, Steam_Rails-1.19.2-1.1.1.jar, createplus-1.19.2_v0.5.2a.jar, ars_creo-1.19.2-3.1.3.jar, LegendaryTooltips-1.19.2-forge-1.4.0.jar, Xaeros_Minimap_23.1.0_Forge_1.19.1.jar, gravestone-1.19.2-1.0.1.jar, FastWorkbench-1.19.2-7.0.1.jar, JustEnoughProfessions-forge-1.19-2.0.1.jar, AutoRegLib-1.8.2-55.jar, Quark-3.4-393.jar, ars_elemental-1.19.2-0.5.8.1.jar, immersive_paintings-0.4.4+1.19.2-forge.jar, entityculling-forge-1.6.1-mc1.19.2.jar, backpacked-2.1.10-1.19.jar, canary-mc1.19.2-0.1.9.jar, invhud.forge.1.19-3.4.7.jar, FastFurnace-1.19.2-7.0.0.jar, creeperoverhaul-2.0.8-forge.jar, appleskin-forge-mc1.19-2.4.2.jar, ferritecore-5.0.3-forge.jar, SoL-Carrot-1.19.2-1.14.0.jar, PuzzlesLib-v4.3.12-1.19.2-Forge.jar, Smooth Swapping-1.19.2-1.0.2.jar, Delightful-1.19.2-3.2.2.jar, expandability-forge-7.0.0.jar, overloadedarmorbar-1.19.3-7.1.jar, OpenLoader-Forge-1.19.2-15.0.1.jar, createaddition-1.19.2-20230202b.jar, ad_astra-forge-1.19.2-1.12.4.jar, Ad-Astra-Giselle-Addon-forge-1.19.2-1.12.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack maenchants-1.19.2-6.0.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack dynamiclightsreforged-1.19.2_v1.4.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack TreeChop-1.19.2-forge-0.17.6.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBetterDungeons-1.19.2-Forge-3.2.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack create_misc_and_things_1.19.2_2.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack supermartijn642configlib-1.1.6b-forge-mc1.19.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack open-parties-and-claims-forge-1.19.2-0.16.6.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack player-animation-lib-forge-1.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack botarium-forge-1.19.2-1.8.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack naturalist-forge-2.1.1-1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack connectivity-1.19.2-3.4.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack rubidium-0.6.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack hourglass-1.19.1-1.2.1.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack XaerosWorldMap_1.28.9_Forge_1.19.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack CTM-1.19.2-1.1.6+8.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Controlling-forge-1.19.2-10.0+7.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ReAuth-1.19-Forge-4.0.7.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Prism-1.19.1-1.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Placebo-1.19.2-7.1.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsApi-1.19.2-Forge-3.8.8.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Bookshelf-Forge-1.19.2-16.2.17.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack balm-forge-1.19.2-4.5.6.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack carryon-forge-1.19.2-2.0.5.10.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack JustEnoughResources-1.19.2-1.2.1.193.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack chat_heads-0.10.4-forge-1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack DeLogger-4.7.0-build.9+mc1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBetterNetherFortresses-1.19.2-Forge-1.0.4.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack cloth-config-8.2.88-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack shetiphiancore-forge-1.19.0-3.11.3.01.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack dummmmmmy-1.19.2-1.7.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack supplementaries-1.19.2-2.2.54.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack SimpleDiscordLink-forge-1.19.1-2.2.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack FarmersDelight-1.19-1.2.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack handcrafted-forge-1.19.2-2.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack entangled-1.3.13-forge-mc1.19.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack getittogetherdrops-forge-1.19.2-1.3.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ToolStats-Forge-1.19.2-12.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack simpleshops-1.2.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack do-a-barrel-roll-2.6.2+1.19.2-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack supermartijn642corelib-1.1.4-forge-mc1.19.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBridges-1.19.2-Forge-3.1.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack resourcefulconfig-forge-1.19.2-1.0.19.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack spark-1.10.29-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack curiouslanterns-1.19.2-1.2.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack curios-forge-1.19.2-5.1.3.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Patchouli-1.19.2-77.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack oculus-mc1.19.2-1.2.8a.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack collective-1.19.2-6.49.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Explosiont-1.19.2-2.4.5.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsExtras-1.19.2-Forge-3.1.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack PingHUD-2.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack seamless_loading_screen-1.19.2-4.0.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack resourcefullib-forge-1.19.2-1.1.22.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack eatinganimation-1.19-3.1.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack InventoryProfilesNext-forge-1.19-1.9.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack architectury-6.5.69-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack AI-Improvements-1.19.2-0.5.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack light-overlay-7.0.1-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack chunkloaders-1.2.3-forge-mc1.19.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack JadeAddons-1.19.2-forge-3.4.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack EasyShulkerBoxes-v4.3.7-1.19.2-Forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack letmedespawn-1.18.x-1.19.x-forge-1.0.3.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack geckolib-forge-1.19-3.1.40.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack rhino-forge-1902.2.2-build.264.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Fastload-Reforged-2.6.9+1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack trashslot-forge-1.19-12.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack platforms-1.19-1.10.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack jei-1.19.2-forge-11.6.0.1011.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack VisualWorkbench-v4.2.3-1.19.2-Forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack simple-rpc-forge-1.19.x-3.2.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack createchunkloading-1.3.0-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Fallingleaves-1.19.1-1.3.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack FastSuite-1.19.2-4.0.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Clumps-forge-1.19.2-9.0.0+14.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack shutupexperimentalsettings-1.0.5.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack comforts-forge-6.0.3+1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack NaturesCompass-1.19.2-1.10.0-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack artifacts-1.19.2-5.0.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack SereneSeasons-1.19.2-8.1.0.24.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack configured-2.0.1-1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack MyServerIsCompatible-1.19-1.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack lazydfu-1.19-1.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ars_nouveau-1.19.2-3.12.3.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack rubidium_extras-1.19.2_v1.3.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack 3dskinlayers-forge-1.5.2-mc1.19.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack forge-1.19.2-43.2.6-universal.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack client-1.19.2-20220805.130853-srg.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack smoothchunk-1.19.1-2.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack logprot-1.19.2-1.9.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack SimpleBackups-1.19.1-2.1.8.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack voicechat-forge-1.19.2-2.3.28.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack libIPN-forge-1.19-2.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack radiantgear-forge-2.0.1+1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack moonlight-1.19.2-2.2.13-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack labels-1.19.2-1.8.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack MouseTweaks-forge-mc1.19-2.23.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack bettercombat-forge-1.6.1+1.19.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ToolBelt-1.19.2-1.19.7.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack nightlights_1.19.2_1.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Jade-1.19.1-forge-8.8.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack CreativeCore_FORGE_v2.9.3_mc1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack smoothboot(reloaded)-mc1.19.2-0.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack NethersDelight-1.19-3.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Ding-1.19.2-Forge-1.4.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack betterfpsdist-1.19.2-1.8.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Iceberg-1.19.2-forge-1.1.4.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack create-1.19.2-0.5.0.i.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Steam_Rails-1.19.2-1.1.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack createplus-1.19.2_v0.5.2a.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ars_creo-1.19.2-3.1.3.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack LegendaryTooltips-1.19.2-forge-1.4.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Xaeros_Minimap_23.1.0_Forge_1.19.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack gravestone-1.19.2-1.0.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack FastWorkbench-1.19.2-7.0.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack JustEnoughProfessions-forge-1.19-2.0.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack AutoRegLib-1.8.2-55.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Quark-3.4-393.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ars_elemental-1.19.2-0.5.8.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack immersive_paintings-0.4.4+1.19.2-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack entityculling-forge-1.6.1-mc1.19.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack backpacked-2.1.10-1.19.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack canary-mc1.19.2-0.1.9.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack invhud.forge.1.19-3.4.7.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack FastFurnace-1.19.2-7.0.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack creeperoverhaul-2.0.8-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack appleskin-forge-mc1.19-2.4.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ferritecore-5.0.3-forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack SoL-Carrot-1.19.2-1.14.0.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack PuzzlesLib-v4.3.12-1.19.2-Forge.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Smooth Swapping-1.19.2-1.0.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Delightful-1.19.2-3.2.2.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack overloadedarmorbar-1.19.3-7.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack OpenLoader-Forge-1.19.2-15.0.1.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack createaddition-1.19.2-20230202b.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack ad_astra-forge-1.19.2-1.12.4.jar
+[11:16:56] [Render thread/ERROR]: Failed to get filter section from pack Ad-Astra-Giselle-Addon-forge-1.19.2-1.12.jar
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/pillager_outpost}.pools[5].entries[0]: Unknown loot table called supplementaries:inject/pillager_flax
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/stronghold_crossing}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/stronghold_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/jungle_temple}.pools[1].entries[0]: Unknown loot table called supplementaries:inject/temple_blue_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/nether_bridge}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/fortress_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/woodland_mansion}.pools[3].entries[0]: Unknown loot table called supplementaries:inject/mansion_quiver
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/simple_dungeon}.pools[4].entries[0]: Unknown loot table called supplementaries:inject/dungeon_flax
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/simple_dungeon}.pools[3].entries[0]: Unknown loot table called supplementaries:inject/dungeon_quiver
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[3].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_rope
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/shipwreck_treasure}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/shipwreck_treasure_globe
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/nether_bridge}.pools[1].entries[0]: Unknown loot table called supplementaries:inject/fortress_blue_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[4].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_flax
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/jungle_temple}.pools[3].entries[0]: Unknown loot table called supplementaries:inject/temple_spikes
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/shipwreck_supply}.pools[1].entries[0]: Unknown loot table called supplementaries:inject/shipwreck_storage_flax
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/end_city_treasure}.pools[1].entries[0]: Unknown loot table called supplementaries:inject/end_city_stasis
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[6].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/abandoned_mineshaft}.pools[5].entries[0]: Unknown loot table called supplementaries:inject/mineshaft_blue_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/jungle_temple}.pools[2].entries[0]: Unknown loot table called supplementaries:inject/temple_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/simple_dungeon}.pools[5].entries[0]: Unknown loot table called supplementaries:inject/dungeon_blue_bomb
+[11:16:56] [Render thread/WARN]: Found validation problem in {minecraft:chests/stronghold_crossing}.pools[1].entries[0]: Unknown loot table called supplementaries:inject/stronghold_blue_bomb
+[11:16:56] [Render thread/INFO]: Registered 0 additional loot tables.
+[11:16:56] [Render thread/WARN]: Failed loading villager cartographer registered at cartographer
+[11:16:56] [Render thread/WARN]: Exception caught when registering villager
+java.lang.NullPointerException: Cannot read field "f_19853_" because "p_219708_" is null
+	at net.minecraft.world.entity.npc.VillagerTrades$TreasureMapForEmeralds.m_213663_(VillagerTrades.java:877) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at jeresources.collection.TradeList.addMerchantRecipe(TradeList.java:58) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.collection.TradeList.addITradeList(TradeList.java:69) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.entry.AbstractVillagerEntry.addITradeLists(AbstractVillagerEntry.java:30) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.entry.AbstractVillagerEntry.<init>(AbstractVillagerEntry.java:23) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.entry.VillagerEntry.<init>(VillagerEntry.java:19) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.util.VillagersHelper.initRegistry(VillagersHelper.java:23) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.compatibility.Compatibility.init(Compatibility.java:33) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.proxy.CommonProxy.initCompatibility(CommonProxy.java:14) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at jeresources.jei.JEIConfig.registerCategories(JEIConfig.java:98) ~[JustEnoughResources-1.19.2-1.2.1.193.jar%23358!/:1.2.1.193]
+	at mezz.jei.library.load.PluginLoader.lambda$createRecipeCategories$3(PluginLoader.java:88) ~[jei-1.19.2-forge-11.6.0.1011.jar%23356!/:11.6.0.1011]
+	at mezz.jei.library.load.PluginCaller.callOnPlugins(PluginCaller.java:25) ~[jei-1.19.2-forge-11.6.0.1011.jar%23356!/:11.6.0.1011]
+	at mezz.jei.library.load.PluginLoader.createRecipeCategories(PluginLoader.java:88) ~[jei-1.19.2-forge-11.6.0.1011.jar%23356!/:11.6.0.1011]
+	at mezz.jei.library.load.PluginLoader.createRecipeManager(PluginLoader.java:117) ~[jei-1.19.2-forge-11.6.0.1011.jar%23356!/:11.6.0.1011]
+	at mezz.jei.library.startup.JeiStarter.start(JeiStarter.java:114) ~[jei-1.19.2-forge-11.6.0.1011.jar%23356!/:11.6.0.1011]
+	at mezz.jei.forge.startup.StartEventObserver.transitionState(StartEventObserver.java:137) ~[jei-1.19.2-forge-11.6.0.1011.jar%23356!/:11.6.0.1011]
+	at mezz.jei.forge.startup.StartEventObserver.onEvent(StartEventObserver.java:100) ~[jei-1.19.2-forge-11.6.0.1011.jar%23356!/:11.6.0.1011]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2379!/:?]
+	at net.minecraft.client.multiplayer.ClientPacketListener.m_5859_(ClientPacketListener.java:1321) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:35) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.network.protocol.game.ClientboundUpdateTagsPacket.m_5797_(ClientboundUpdateTagsPacket.java:11) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_131356_(PacketUtils.java:22) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1072) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:700) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.main.Main.m_239872_(Main.java:212) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:51) ~[client-1.19.2-20220805.130853-srg.jar%23429!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:27) ~[fmlloader-1.19.2-43.2.6.jar%2395!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2382!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[11:16:56] [Render thread/INFO]: Registering categories: minecraft:jeresources took 479.0 ms
+[11:16:56] [Render thread/INFO]: Registering categories: supplementaries:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: supplementaries:jei_plugin took 4.000 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin took 2.921 ms
+[11:16:56] [Render thread/INFO]: Registering categories: curios:curios ...
+[11:16:56] [Render thread/INFO]: Registering categories: curios:curios took 2.600 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: patchouli:patchouli ...
+[11:16:56] [Render thread/INFO]: Registering categories: patchouli:patchouli took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: trashslot:trashslot ...
+[11:16:56] [Render thread/INFO]: Registering categories: trashslot:trashslot took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: jei:gui ...
+[11:16:56] [Render thread/INFO]: Registering categories: jei:gui took 1.900 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: jei:debug ...
+[11:16:56] [Render thread/INFO]: Registering categories: jei:debug took 5.500 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: jei:forge_gui ...
+[11:16:56] [Render thread/INFO]: Registering categories: jei:forge_gui took 3.400 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: visualworkbench:crafting ...
+[11:16:56] [Render thread/INFO]: Registering categories: visualworkbench:crafting took 2.300 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: artifacts:main ...
+[11:16:56] [Render thread/INFO]: Registering categories: artifacts:main took 6.700 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: ars_nouveau:main ...
+[11:16:56] [Render thread/INFO]: Registering categories: ars_nouveau:main took 3.887 ms
+[11:16:56] [Render thread/INFO]: Registering categories: toolbelt:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: toolbelt:jei_plugin took 3.000 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: jade:main ...
+[11:16:56] [Render thread/INFO]: Registering categories: jade:main took 2.000 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: nethersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: nethersdelight:jei_plugin took 1.418 ms
+[11:16:56] [Render thread/INFO]: Registering categories: create:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: create:jei_plugin took 22.52 ms
+[11:16:56] [Render thread/INFO]: Registering categories: justenoughprofessions:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: justenoughprofessions:jei_plugin took 1.223 ms
+[11:16:56] [Render thread/INFO]: Registering categories: quark:quark ...
+[11:16:56] [Render thread/INFO]: Registering categories: quark:quark took 46.00 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: ars_elemental:main ...
+[11:16:56] [Render thread/INFO]: Registering categories: ars_elemental:main took 527.3 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: delightful:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: delightful:jei_plugin took 2.400 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: createaddition:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering categories: createaddition:jei_plugin took 2.651 ms
+[11:16:56] [Render thread/INFO]: Registering categories: ad_astra:jei ...
+[11:16:56] [Render thread/INFO]: Registering categories: ad_astra:jei took 2.646 ms
+[11:16:56] [Render thread/INFO]: Registering categories: ad_astra_giselle_addon:jei ...
+[11:16:56] [Render thread/INFO]: Registering categories: ad_astra_giselle_addon:jei took 246.9 ?s
+[11:16:56] [Render thread/INFO]: Registering categories: jei:internal ...
+[11:16:56] [Render thread/INFO]: Registering categories: jei:internal took 519.6 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 761.3 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: minecraft:jeresources ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: minecraft:jeresources took 4.600 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: supplementaries:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: supplementaries:jei_plugin took 1.900 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin took 2.400 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: curios:curios ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: curios:curios took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: patchouli:patchouli ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: patchouli:patchouli took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: trashslot:trashslot ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: trashslot:trashslot took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:gui ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:gui took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:forge_gui took 1.200 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: visualworkbench:crafting ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: visualworkbench:crafting took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: artifacts:main ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: artifacts:main took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ars_nouveau:main ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ars_nouveau:main took 1.200 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: toolbelt:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: toolbelt:jei_plugin took 2.400 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jade:main ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jade:main took 1.200 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: nethersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: nethersdelight:jei_plugin took 2.300 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: create:jei_plugin took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: justenoughprofessions:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: justenoughprofessions:jei_plugin took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: quark:quark ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: quark:quark took 884.4 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ars_elemental:main ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ars_elemental:main took 3.700 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: delightful:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: delightful:jei_plugin took 1.900 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: createaddition:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: createaddition:jei_plugin took 2.900 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ad_astra:jei ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ad_astra:jei took 2.500 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ad_astra_giselle_addon:jei ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: ad_astra_giselle_addon:jei took 2.800 ?s
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[11:16:56] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 546.8 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: minecraft:jeresources ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: minecraft:jeresources took 3.400 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: supplementaries:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: supplementaries:jei_plugin took 2.700 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin took 47.30 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: curios:curios ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: curios:curios took 2.400 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: patchouli:patchouli ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: patchouli:patchouli took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: trashslot:trashslot ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: trashslot:trashslot took 3.900 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:gui ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:gui took 2.000 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 10.40 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:forge_gui took 2.500 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: visualworkbench:crafting ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: visualworkbench:crafting took 1.800 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: artifacts:main ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: artifacts:main took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ars_nouveau:main ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ars_nouveau:main took 38.80 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: toolbelt:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: toolbelt:jei_plugin took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jade:main ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jade:main took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: nethersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: nethersdelight:jei_plugin took 31.80 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: create:jei_plugin took 527.3 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: justenoughprofessions:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: justenoughprofessions:jei_plugin took 29.20 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: quark:quark ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: quark:quark took 19.30 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ars_elemental:main ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ars_elemental:main took 16.70 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: delightful:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: delightful:jei_plugin took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: createaddition:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: createaddition:jei_plugin took 613.5 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ad_astra:jei ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ad_astra:jei took 35.10 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ad_astra_giselle_addon:jei ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: ad_astra_giselle_addon:jei took 43.80 ?s
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[11:16:56] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 3.000 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 8.700 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: minecraft:jeresources ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: minecraft:jeresources took 2.200 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: supplementaries:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: supplementaries:jei_plugin took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin took 2.000 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: curios:curios ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: curios:curios took 1.500 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: patchouli:patchouli ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: patchouli:patchouli took 2.500 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: trashslot:trashslot ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: trashslot:trashslot took 1.400 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:gui ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:gui took 1.200 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:debug took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:forge_gui took 1.100 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: visualworkbench:crafting ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: visualworkbench:crafting took 5.200 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: artifacts:main ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: artifacts:main took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ars_nouveau:main ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ars_nouveau:main took 1.100 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: toolbelt:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: toolbelt:jei_plugin took 1.600 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jade:main ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jade:main took 1.900 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: nethersdelight:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: nethersdelight:jei_plugin took 2.600 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: create:jei_plugin took 1.700 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: justenoughprofessions:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: justenoughprofessions:jei_plugin took 1.300 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: quark:quark ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: quark:quark took 3.800 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ars_elemental:main ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ars_elemental:main took 2.100 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: delightful:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: delightful:jei_plugin took 23.50 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: createaddition:jei_plugin ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: createaddition:jei_plugin took 3.300 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ad_astra:jei ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ad_astra:jei took 2.100 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ad_astra_giselle_addon:jei ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: ad_astra_giselle_addon:jei took 6.500 ?s
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[11:16:56] [Render thread/INFO]: Registering advanced plugins: jei:internal took 3.500 ?s
+[11:16:56] [Render thread/INFO]: Building recipe registry...
+[11:16:56] [Render thread/INFO]: Building recipe registry took 15.49 ms
+[11:16:56] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:minecraft took 267.2 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: minecraft:jeresources ...
+[11:16:57] [Render thread/INFO]: Registering recipes: minecraft:jeresources took 35.14 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: supplementaries:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes: supplementaries:jei_plugin took 10.58 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin took 18.80 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: curios:curios ...
+[11:16:57] [Render thread/INFO]: Registering recipes: curios:curios took 6.800 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: patchouli:patchouli ...
+[11:16:57] [Render thread/INFO]: Registering recipes: patchouli:patchouli took 2.400 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: trashslot:trashslot ...
+[11:16:57] [Render thread/INFO]: Registering recipes: trashslot:trashslot took 3.700 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:gui ...
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:gui took 1.500 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:debug ...
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:debug took 6.400 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:forge_gui ...
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:forge_gui took 3.700 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: visualworkbench:crafting ...
+[11:16:57] [Render thread/INFO]: Registering recipes: visualworkbench:crafting took 2.000 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: artifacts:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes: artifacts:main took 4.149 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: ars_nouveau:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes: ars_nouveau:main took 8.721 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: toolbelt:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes: toolbelt:jei_plugin took 329.0 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: jade:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes: jade:main took 14.10 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes: nethersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes: nethersdelight:jei_plugin took 2.454 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: create:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes: create:jei_plugin took 179.4 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: justenoughprofessions:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes: justenoughprofessions:jei_plugin took 3.105 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: quark:quark ...
+[11:16:57] [Render thread/INFO]: Registering recipes: quark:quark took 3.954 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: ars_elemental:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes: ars_elemental:main took 1.553 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: delightful:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Ingredients are being removed at runtime: 48 net.minecraft.world.item.ItemStack
+[11:16:57] [Render thread/INFO]: Registering recipes: delightful:jei_plugin took 4.720 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: createaddition:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes: createaddition:jei_plugin took 2.435 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: ad_astra:jei ...
+[11:16:57] [Render thread/INFO]: Registering recipes: ad_astra:jei took 1.947 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: ad_astra_giselle_addon:jei ...
+[11:16:57] [Render thread/INFO]: Registering recipes: ad_astra_giselle_addon:jei took 2.412 ms
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:internal ...
+[11:16:57] [Render thread/INFO]: Registering recipes: jei:internal took 7.100 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 4.542 ms
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:jeresources ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: minecraft:jeresources took 5.200 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: supplementaries:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: supplementaries:jei_plugin took 2.000 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin took 17.10 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: curios:curios ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: curios:curios took 9.000 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: patchouli:patchouli ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: patchouli:patchouli took 2.200 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: trashslot:trashslot ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: trashslot:trashslot took 1.800 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:gui took 1.900 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 5.800 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge_gui took 1.900 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: visualworkbench:crafting ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: visualworkbench:crafting took 23.70 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: artifacts:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: artifacts:main took 4.600 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ars_nouveau:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ars_nouveau:main took 2.300 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: toolbelt:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: toolbelt:jei_plugin took 1.900 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jade:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jade:main took 1.600 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: nethersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: nethersdelight:jei_plugin took 2.800 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: create:jei_plugin took 1.024 ms
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: justenoughprofessions:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: justenoughprofessions:jei_plugin took 2.500 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: quark:quark ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: quark:quark took 1.900 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ars_elemental:main ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ars_elemental:main took 1.600 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: delightful:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: delightful:jei_plugin took 3.000 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: createaddition:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: createaddition:jei_plugin took 1.600 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ad_astra:jei ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ad_astra:jei took 3.156 ms
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ad_astra_giselle_addon:jei ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: ad_astra_giselle_addon:jei took 662.3 ?s
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[11:16:57] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 2.900 ?s
+[11:16:57] [Render thread/INFO]: Building runtime...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 3.351 ms
+[11:16:57] [Render thread/INFO]: Registering gui handlers: minecraft:jeresources ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: minecraft:jeresources took 4.600 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: supplementaries:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: supplementaries:jei_plugin took 2.100 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin took 13.40 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: curios:curios ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: curios:curios took 931.2 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: patchouli:patchouli ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: patchouli:patchouli took 2.800 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: trashslot:trashslot ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: trashslot:trashslot took 727.4 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:gui ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:gui took 10.84 ms
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:debug took 10.90 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:forge_gui ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:forge_gui took 2.200 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: visualworkbench:crafting ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: visualworkbench:crafting took 2.000 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: artifacts:main ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: artifacts:main took 1.500 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ars_nouveau:main ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ars_nouveau:main took 2.500 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: toolbelt:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: toolbelt:jei_plugin took 1.300 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jade:main ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jade:main took 3.500 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: nethersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: nethersdelight:jei_plugin took 1.400 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: create:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: create:jei_plugin took 1.506 ms
+[11:16:57] [Render thread/INFO]: Registering gui handlers: justenoughprofessions:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: justenoughprofessions:jei_plugin took 3.800 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: quark:quark ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: quark:quark took 363.1 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ars_elemental:main ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ars_elemental:main took 3.100 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: delightful:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: delightful:jei_plugin took 1.800 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: createaddition:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: createaddition:jei_plugin took 1.800 ?s
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ad_astra:jei ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ad_astra:jei took 5.198 ms
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ad_astra_giselle_addon:jei ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: ad_astra_giselle_addon:jei took 1.495 ms
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[11:16:57] [Render thread/INFO]: Registering gui handlers: jei:internal took 3.500 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:minecraft ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:minecraft took 49.30 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: minecraft:jeresources ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: minecraft:jeresources took 14.70 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: supplementaries:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: supplementaries:jei_plugin took 2.000 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: farmersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: farmersdelight:jei_plugin took 1.700 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: curios:curios ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: curios:curios took 28.00 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: patchouli:patchouli ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: patchouli:patchouli took 5.100 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: trashslot:trashslot ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: trashslot:trashslot took 19.00 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:gui ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:gui took 5.100 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:debug ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:debug took 6.800 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:forge_gui ...
+[11:16:57] [Render thread/INFO]: Starting JEI GUI
+[11:16:57] [Render thread/INFO]: Building ingredient list...
+[11:16:57] [Render thread/INFO]: Building ingredient list took 2.730 ms
+[11:16:57] [Render thread/INFO]: Building ingredient filter...
+[11:16:57] [Render thread/INFO]: Loading config file: D:\Games\Mc\Instances\Starlight Society\config\jei\jei-client.ini
+[11:16:57] [Render thread/INFO]: Adding 4883 ingredients
+[11:16:57] [Render thread/INFO]: Added 4883 ingredients
+[11:16:57] [Render thread/INFO]: Building ingredient filter took 291.8 ms
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 389.3 ms
+[11:16:57] [Render thread/INFO]: Registering Runtime: visualworkbench:crafting ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: visualworkbench:crafting took 4.100 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: artifacts:main ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: artifacts:main took 1.400 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: ars_nouveau:main ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: ars_nouveau:main took 9.100 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: toolbelt:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: toolbelt:jei_plugin took 1.600 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: jade:main ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: jade:main took 3.200 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: nethersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: nethersdelight:jei_plugin took 1.300 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: create:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: create:jei_plugin took 1.100 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: justenoughprofessions:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: justenoughprofessions:jei_plugin took 900.0 ns
+[11:16:57] [Render thread/INFO]: Registering Runtime: quark:quark ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: quark:quark took 5.900 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: ars_elemental:main ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: ars_elemental:main took 1.400 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: delightful:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: delightful:jei_plugin took 1.200 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: createaddition:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: createaddition:jei_plugin took 1.400 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: ad_astra:jei ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: ad_astra:jei took 900.0 ns
+[11:16:57] [Render thread/INFO]: Registering Runtime: ad_astra_giselle_addon:jei ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: ad_astra_giselle_addon:jei took 6.000 ?s
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:internal ...
+[11:16:57] [Render thread/INFO]: Registering Runtime: jei:internal took 1.500 ?s
+[11:16:57] [Render thread/INFO]: Building runtime took 426.8 ms
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:minecraft took 11.00 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: minecraft:jeresources ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: minecraft:jeresources took 6.900 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: supplementaries:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: supplementaries:jei_plugin took 1.200 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin took 1.000 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: curios:curios ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: curios:curios took 1.100 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: patchouli:patchouli ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: patchouli:patchouli took 2.600 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: trashslot:trashslot ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: trashslot:trashslot took 7.000 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:gui ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:gui took 1.500 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:debug took 4.700 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:forge_gui ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:forge_gui took 900.0 ns
+[11:16:57] [Render thread/INFO]: Sending Runtime: visualworkbench:crafting ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: visualworkbench:crafting took 900.0 ns
+[11:16:57] [Render thread/INFO]: Sending Runtime: artifacts:main ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: artifacts:main took 3.100 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: ars_nouveau:main ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: ars_nouveau:main took 1.300 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: toolbelt:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: toolbelt:jei_plugin took 2.600 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: jade:main ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: jade:main took 4.700 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: nethersdelight:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: nethersdelight:jei_plugin took 900.0 ns
+[11:16:57] [Render thread/INFO]: Sending Runtime: create:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: create:jei_plugin took 2.200 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: justenoughprofessions:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: justenoughprofessions:jei_plugin took 1.100 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: quark:quark ...
+[11:16:57] [Render thread/INFO]: Ingredients are being removed at runtime: 10 net.minecraft.world.item.ItemStack
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 pipe quark:pipe
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 bonded_ravager_hide quark:bonded_ravager_hide
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 crate quark:crate
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 tater_in_a_jar supplementaries:tater_in_a_jar
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 tiny_potato quark:tiny_potato
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 magnet quark:magnet
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 encased_pipe quark:encased_pipe
+[11:16:57] [Render thread/ERROR]: Could not find a matching ingredient to remove: 1 magnetized_block quark:magnetized_block
+[11:16:57] [Render thread/INFO]: Sending Runtime: quark:quark took 7.357 ms
+[11:16:57] [Render thread/INFO]: Sending Runtime: ars_elemental:main ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: ars_elemental:main took 2.700 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: delightful:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: delightful:jei_plugin took 1.200 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: createaddition:jei_plugin ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: createaddition:jei_plugin took 1.000 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: ad_astra:jei ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: ad_astra:jei took 3.600 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: ad_astra_giselle_addon:jei ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: ad_astra_giselle_addon:jei took 1.600 ?s
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[11:16:57] [Render thread/INFO]: Sending Runtime: jei:internal took 6.800 ?s
+[11:16:57] [Render thread/INFO]: Starting JEI took 1.712 s
+[11:16:57] [Render thread/INFO]: Ingredients are being removed at runtime: 2 net.minecraft.world.item.ItemStack
+[11:16:58] [Render thread/INFO]: Started 10 worker threads
+[11:16:59] [Render thread/INFO]: Minimap updated server level id: -1990134306 for world ResourceKey[minecraft:dimension / minecraft:overworld]
+[11:16:59] [Render thread/INFO]: Synced supplementaries-common.toml configs
+[11:16:59] [Netty Client IO #1/INFO]: Decoded Weapon Attribute registry in 6 string chunks
+[11:16:59] [Render thread/WARN]: Unknown custom packet identifier: simplebackups:netchannel
+[11:16:59] [Render thread/INFO]: Received config from the server: {}
+[11:17:00] [Render thread/INFO]: Loaded 110 advancements
+[11:17:07] [Render thread/INFO]: Destroying pipeline OVERWORLD
+[11:17:07] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[11:17:07] [Render thread/INFO]: Shaders are disabled
+[11:17:07] [Render thread/INFO]: Creating pipeline for dimension OVERWORLD
+[11:17:07] [Render thread/INFO]: [System] [CHAT] Shaders disabled!
+[11:17:12] [Render thread/WARN]: Unknown custom packet identifier: voicechat:player_states
+[11:17:12] [Render thread/INFO]: Received secret
+[11:17:12] [Render thread/INFO]: Connecting to server: 'minecraft.drakesmith.net:24454'
+[11:17:12] [Render thread/WARN]: Unknown custom packet identifier: voicechat:secret
+[11:17:12] [VoiceChatAuthenticationThread/INFO]: Trying to authenticate voice connection
+[11:17:12] [Render thread/INFO]: [CHAT] <LibraryOfStupid> yooo
+[11:17:12] [VoiceChatConnectionThread/INFO]: Server acknowledged authentication
+[11:17:12] [NativeInitializationThread/INFO]: Using Opus version 'libopus 1.3.1'
+[11:17:12] [Render thread/WARN]: Unknown custom packet identifier: voicechat:player_state
+[11:17:12] [Render thread/WARN]: Unknown custom packet identifier: voicechat:player_state
+[11:18:37] [Render thread/INFO]: [CHAT] <LibraryOfStupid> casmin
+[11:20:35] [Render thread/INFO]: [CHAT] <Casmin7> hello
+[11:21:34] [Render thread/INFO]: [CHAT] <Casmin7> how are ya
+[11:21:39] [Render thread/INFO]: [CHAT] <LibraryOfStupid> good
+[11:22:21] [Render thread/INFO]: [CHAT] <LibraryOfStupid> question
+[11:22:26] [Render thread/INFO]: [CHAT] <Casmin7> yes?
+[11:22:27] [Render thread/INFO]: [CHAT] <LibraryOfStupid> what create mod is this ?
+[11:22:37] [Render thread/INFO]: [CHAT] <Casmin7> ?
+[11:22:44] [Render thread/INFO]: [CHAT] <LibraryOfStupid> version and
+[11:22:44] [Render thread/INFO]: Loaded 113 advancements
+[11:22:47] [Render thread/INFO]: [CHAT] <LibraryOfStupid> that
+[11:22:56] [Render thread/INFO]: [CHAT] <Casmin7> latest for 1.19.2
+[11:23:31] [Render thread/INFO]: [CHAT] <LibraryOfStupid> where you at ?
+[11:23:42] [Render thread/INFO]: [CHAT] <Casmin7> spawn
+[11:23:54] [Render thread/INFO]: [CHAT] <Casmin7> what was the issue with better combat?
+[11:24:29] [Render thread/INFO]: [CHAT] <LibraryOfStupid> try like using the axe
+[11:24:43] [Render thread/INFO]: [CHAT] <LibraryOfStupid> why does it float when hitting
+[11:25:15] [Render thread/INFO]: [CHAT] <Casmin7> thats from better combat
+[11:25:21] [Render thread/INFO]: [CHAT] <Casmin7> its just how it is
+[11:25:23] [Render thread/INFO]: [CHAT] <LibraryOfStupid> personally like to play with people
+[11:25:28] [Render thread/INFO]: [CHAT] <LibraryOfStupid> ok then no prb
+[11:25:30] [Render thread/INFO]: [CHAT] <Casmin7> same goes for swords
+[11:25:34] [Render thread/INFO]: [CHAT] <LibraryOfStupid> can we team up ?
+[11:25:38] [Render thread/INFO]: [CHAT] <Casmin7> sure
+[11:25:40] [Render thread/INFO]: [CHAT] <LibraryOfStupid> ok
+[11:25:55] [Render thread/INFO]: [CHAT] <LibraryOfStupid> where you at like cords ?
+[11:26:01] [Render thread/INFO]: [CHAT] <Casmin7> 0 0
+[11:26:07] [Render thread/INFO]: [CHAT] <LibraryOfStupid> my house is at -780 64 -584
+[11:26:16] [Render thread/INFO]: [CHAT] <Casmin7> damn
+[11:26:25] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[11:26:56] [Render thread/INFO]: [CHAT] <Casmin7> idk
+[11:27:04] [Render thread/INFO]: [CHAT] <Casmin7> wont get there today
+[11:27:25] [Render thread/INFO]: Loaded 145 advancements
+[11:28:21] [Render thread/INFO]: [CHAT] <LibraryOfStupid> your laging
+[11:29:40] [Render thread/INFO]: [CHAT] <Casmin7> yea why
+[11:29:44] [Render thread/INFO]: [CHAT] <LibraryOfStupid> idk
+[11:29:47] [Render thread/INFO]: Loaded 145 advancements
+[11:34:31] [Render thread/INFO]: Stopping!
+[11:34:31] [Render thread/INFO]: Taking screenshot (takingScreenshot: false, saveScreenshot: true)
+[11:34:32] [Render thread/INFO]: Saving screenshot at D:\Games\Mc\Instances\Starlight Society\screenshots\worlds\servers\minecraft.drakesmith.net_25565.png
