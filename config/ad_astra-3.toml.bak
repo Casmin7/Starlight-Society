@@ -133,6 +133,6 @@ avoidOverworldChecks = true
 
 [cryoFreezer]
 	maxEnergy = 30000
-	energyPerTick = 18
+	energyPerTick = 24
 	tankSize = 3000
 
